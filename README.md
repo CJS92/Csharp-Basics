@@ -1,3 +1,3 @@
 # Csharp-Basics
 
-This is an assignment for IT 2040.
+This is an assignment for IT 2040. All changes and revisions will be posted here.
